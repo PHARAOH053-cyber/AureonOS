@@ -13,3 +13,5 @@ you can start timers, read files by writing this command: "analysis port1" (or "
 
 
 /WAIT UNTIL v0.2.0 COMES OUT TO CHANGE WALLPAPERS IN THE OS/
+
+this is an open code version, so you can make changes to ANYTHING, just be creative :3 
